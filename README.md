@@ -11,7 +11,8 @@ I'm a passionate, creative, and enthusiastic programmer focusing on topics of Ba
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-
+JavaScript   18 mins         ████████████████████░░░░░   80.38 % 
+Other        3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.91 % 
 ```
 <!--END_SECTION:waka-->
 
