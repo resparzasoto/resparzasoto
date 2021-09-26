@@ -11,7 +11,8 @@ I'm a passionate, creative, and enthusiastic programmer focusing on topics of Ba
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-C#           1 hr 26 mins    ████████████████████████▓   98.95 % 
+C#           1 hr 26 mins    █████████████████▓░░░░░░░   70.91 % 
+HTML         34 mins         ███████░░░░░░░░░░░░░░░░░░   28.24 % 
 ```
 <!--END_SECTION:waka-->
 
