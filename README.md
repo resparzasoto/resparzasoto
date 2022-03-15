@@ -12,8 +12,8 @@ I'm a passionate, creative, and enthusiastic programmer focusing on topics of Ba
 <!--START_SECTION:waka-->
 
 ```text
-C#      6 mins          ████████████████▓░░░░░░░░   66.04 %
-Other   2 mins          █████░░░░░░░░░░░░░░░░░░░░   19.75 %
+Git Config   21 mins         ███████████░░░░░░░░░░░░░░   43.45 %
+Other        20 mins         ██████████░░░░░░░░░░░░░░░   40.12 %
 ```
 
 <!--END_SECTION:waka-->
