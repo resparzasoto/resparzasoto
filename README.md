@@ -12,8 +12,8 @@ I'm a passionate, creative, and enthusiastic programmer focusing on topics of Ba
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   3 hrs 26 mins   ██████████▓░░░░░░░░░░░░░░   42.86 %
-Other      1 hr 58 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.72 %
+Text       1 hr 37 mins    ██████████░░░░░░░░░░░░░░░   40.14 %
+Other      50 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.86 %
 ```
 
 <!--END_SECTION:waka-->
