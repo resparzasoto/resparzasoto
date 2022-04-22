@@ -12,10 +12,9 @@ I'm a passionate, creative, and enthusiastic programmer focusing on topics of Ba
 <!--START_SECTION:waka-->
 
 ```text
-XML     25 mins         ██████████████░░░░░░░░░░░   56.43 %
-CSV     7 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.01 %
-C#      7 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.72 %
-Other   4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
+XML     25 mins         █████████████████░░░░░░░░   68.00 %
+C#      7 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.94 %
+Other   4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.07 %
 ```
 
 <!--END_SECTION:waka-->
