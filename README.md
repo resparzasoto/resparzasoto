@@ -12,8 +12,8 @@ I'm a passionate, creative, and enthusiastic programmer focusing on topics of Ba
 <!--START_SECTION:waka-->
 
 ```text
-SQL     36 mins         ███████████████████████▓░   94.73 %
-Other   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
+SQL     36 mins         █████████████████████████   99.98 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
