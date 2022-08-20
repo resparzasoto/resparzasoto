@@ -12,9 +12,8 @@ I'm a passionate, creative, and enthusiastic programmer focusing on topics of Ba
 <!--START_SECTION:waka-->
 
 ```text
-YAML    40 mins         ██████████████████████░░░   88.24 %
-INI     5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+YAML    3 hrs 22 mins   ███████████████████████░░   92.25 %
+Other   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
 ```
 
 <!--END_SECTION:waka-->
