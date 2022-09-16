@@ -12,12 +12,12 @@ I'm a passionate, creative, and enthusiastic programmer focusing on topics of Ba
 <!--START_SECTION:waka-->
 
 ```text
-Python       17 hrs 39 mins  ████████████████████░░░░░   80.60 %
-YAML         2 hrs 17 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
-CSV          30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
-Text         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-PowerShell   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-Other        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+Python       17 hrs 50 mins  █████████████████████▓░░░   86.89 %
+YAML         33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+SQL          32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+CSV          30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+Bash         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Text         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
 ```
 
 <!--END_SECTION:waka-->
