@@ -12,12 +12,12 @@ I'm a passionate, creative, and enthusiastic programmer focusing on topics of Ba
 <!--START_SECTION:waka-->
 
 ```text
-Python       9 hrs 6 mins    ███████████████▓░░░░░░░░░   62.84 %
-YAML         1 hr 51 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.77 %
-SQL          1 hr 7 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
-TypeScript   51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
-Docker       26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-JSON         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+Python       5 hrs 25 mins   ██████████░░░░░░░░░░░░░░░   39.67 %
+YAML         4 hrs 35 mins   ████████▒░░░░░░░░░░░░░░░░   33.56 %
+SQL          1 hr 9 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
+TypeScript   51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
+JSON         28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+Docker       26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
 ```
 
 <!--END_SECTION:waka-->
