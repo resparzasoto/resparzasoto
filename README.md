@@ -12,9 +12,8 @@ I'm a passionate, creative, and enthusiastic programmer focusing on topics of Ba
 <!--START_SECTION:waka-->
 
 ```text
-Python       9 hrs 45 mins   ██████████████▒░░░░░░░░░░   56.70 %
-YAML         3 hrs 29 mins   █████░░░░░░░░░░░░░░░░░░░░   20.31 %
-Other        1 hr 22 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
+Python       13 hrs 15 mins  ██████████████████░░░░░░░   71.69 %
+Other        1 hr 26 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
 ```
 
 <!--END_SECTION:waka-->
