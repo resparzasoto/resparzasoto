@@ -12,12 +12,12 @@ I'm a passionate, creative, and enthusiastic programmer focusing on topics of Ba
 <!--START_SECTION:waka-->
 
 ```text
-C#           4 hrs 38 mins   ██████████████████▒░░░░░░   72.69 %
-Markdown     25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
-Git          23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
-XML          19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
-JSON         17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
-Git Config   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+C#           4 hrs 15 mins   ███████████████████▓░░░░░   78.65 %
+Markdown     25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
+Git          19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
+JSON         14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+XML          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
