@@ -12,12 +12,7 @@ I'm a passionate, creative, and enthusiastic programmer focusing on topics of Ba
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   25 mins         ██████████████████▓░░░░░░   74.27 %
-Git        5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.88 %
-JSON       3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
-INI        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
