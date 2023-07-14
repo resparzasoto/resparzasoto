@@ -12,11 +12,11 @@ I'm a passionate, creative, and enthusiastic programmer focusing on topics of Ba
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   6 hrs 31 mins   █████████▓░░░░░░░░░░░░░░░   38.55 %
-YAML         4 hrs 41 mins   ███████░░░░░░░░░░░░░░░░░░   27.72 %
-JSON         2 hrs 55 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.31 %
-Other        58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
-Markdown     42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
+TypeScript   6 hrs 28 mins   █████████░░░░░░░░░░░░░░░░   36.09 %
+YAML         4 hrs 47 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.69 %
+JSON         3 hrs 17 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.38 %
+Other        1 hr 34 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
+Markdown     42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
 ```
 
 <!--END_SECTION:waka-->
