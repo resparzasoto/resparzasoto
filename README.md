@@ -12,11 +12,8 @@ I'm a passionate, creative, and enthusiastic programmer focusing on topics of Ba
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         3 hrs 30 mins   █████████████████████▓░░░   87.29 %
-Other        29 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+YAML    1 hr 58 mins    ██████████████████████▒░░   89.75 %
+Other   13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 %
 ```
 
 <!--END_SECTION:waka-->
