@@ -15,7 +15,7 @@ I'm a passionate, creative, and enthusiastic programmer focusing on topics of Ba
 Python       10 hrs 15 mins  ██████████████████▓░░░░░░   74.83 %
 JSON         1 hr 44 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.74 %
 Other        32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
-SQL          27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+SQL          27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
 CSV          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
 ```
 
