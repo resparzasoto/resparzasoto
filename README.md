@@ -12,11 +12,11 @@ I'm a passionate, creative, and enthusiastic programmer focusing on topics of Ba
 <!--START_SECTION:waka-->
 
 ```txt
-JSON     6 hrs 22 mins   ██████████████░░░░░░░░░░░   56.30 %
-Python   2 hrs 54 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.71 %
-SQL      1 hr 12 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
-Other    30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
-CSV      15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+JSON     6 hrs 26 mins   ██████████████▒░░░░░░░░░░   57.54 %
+Python   2 hrs 56 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.22 %
+SQL      58 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
+Other    31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+CSV      15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
 ```
 
 <!--END_SECTION:waka-->
