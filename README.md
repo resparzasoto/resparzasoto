@@ -12,7 +12,7 @@ I'm a passionate, creative, and enthusiastic programmer focusing on topics of Ba
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+SQL   15 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
