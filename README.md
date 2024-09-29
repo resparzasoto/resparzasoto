@@ -12,9 +12,8 @@ I'm a passionate, creative, and enthusiastic programmer focusing on topics of Ba
 <!--START_SECTION:waka-->
 
 ```txt
-YAML              6 mins          ████████████████▒░░░░░░░░   65.54 %
-SQL               3 mins          ████████▓░░░░░░░░░░░░░░░░   34.37 %
-Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+YAML              6 mins          █████████████████████████   99.87 %
+Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
