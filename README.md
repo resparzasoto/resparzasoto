@@ -12,7 +12,9 @@ I'm a passionate, creative, and enthusiastic programmer focusing on topics of Ba
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   22 mins         █████████████████████▒░░░   84.93 %
+Other        3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.83 %
+YAML         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
 ```
 
 <!--END_SECTION:waka-->
