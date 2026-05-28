@@ -12,11 +12,11 @@ I'm a passionate, creative, and enthusiastic programmer focusing on topics of Ba
 <!--START_SECTION:waka-->
 
 ```txt
-Terraform    2 hrs 10 mins         █████████████▒░░░░░░░░░░░   53.13 %
-YAML         1 hr 16 mins          ███████▓░░░░░░░░░░░░░░░░░   31.28 %
-Other        18 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
-TypeScript   9 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
-Markdown     7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+Terraform    2 hrs 10 mins         ███████████▓░░░░░░░░░░░░░   46.81 %
+YAML         1 hr 23 mins          ███████▒░░░░░░░░░░░░░░░░░   29.90 %
+TypeScript   24 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
+Other        18 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+JSON         12 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
 ```
 
 <!--END_SECTION:waka-->
