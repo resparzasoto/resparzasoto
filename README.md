@@ -12,11 +12,11 @@ I'm a passionate, creative, and enthusiastic programmer focusing on topics of Ba
 <!--START_SECTION:waka-->
 
 ```txt
-Mermaid    1 hr 19 mins          ███████████████████▓░░░░░   78.32 %
-JSON       15 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.37 %
-Markdown   6 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
-Other      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-Text       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Markdown   3 hrs 22 mins         ███████████████░░░░░░░░░░   60.11 %
+YAML       1 hr 8 mins           █████░░░░░░░░░░░░░░░░░░░░   20.26 %
+Mermaid    39 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
+JSON       23 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
+Other      2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 ```
 
 <!--END_SECTION:waka-->
