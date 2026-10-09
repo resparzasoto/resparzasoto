@@ -12,11 +12,10 @@ I'm a passionate, creative, and enthusiastic programmer focusing on topics of Ba
 <!--START_SECTION:waka-->
 
 ```txt
-YAML        19 mins               █████████████░░░░░░░░░░░░   51.58 %
-JSON        10 mins               ███████▒░░░░░░░░░░░░░░░░░   29.07 %
-Terraform   6 mins                ████▓░░░░░░░░░░░░░░░░░░░░   18.77 %
+YAML        19 mins               █████████████░░░░░░░░░░░░   51.59 %
+JSON        10 mins               ███████▒░░░░░░░░░░░░░░░░░   29.08 %
+Terraform   6 mins                ████▓░░░░░░░░░░░░░░░░░░░░   18.78 %
 Other       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-CSV         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
